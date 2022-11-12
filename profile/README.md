@@ -16,4 +16,5 @@ En esta página encontrarás todo lo que necesitas para cursar la asignatura:
 |Enlace|Descripción|
 |------|-----------|
 |<p align="center">[:computer:](https://markdown-guide.readthedocs.io/en/latest/basics.html)</p>|Tutorial básico para que puedas iniciarte en Markdown|
-|<p align="center">[:wrench:](https://www.engineeringtoolbox.com/)</p>|**The engineering toolbox :** una web muy interesante donde podrás encontrar apuntes acerca de muchos de los temas que trataremos en clase.|
+|<p align="center">[:wrench:](https://www.engineeringtoolbox.com/)</p>|**The engineering toolbox:** una web muy interesante donde podrás encontrar apuntes acerca de muchos de los temas que trataremos en clase.|
+|<p align="center">[:triangular_ruler:](https://www.unitconverters.net/)</p>|Conversor de unidades|
