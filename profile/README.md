@@ -15,7 +15,7 @@ En esta página encontrarás todo lo que necesitas para cursar la asignatura:
 
 |Enlace|Descripción|
 |------|-----------|
-|<p align="center">[:computer:](https://markdown-guide.readthedocs.io/en/latest/basics.html)</p>|Tutorial básico para que puedas iniciarte en Markdown|
+|<br><p align="center">[:computer:](https://markdown-guide.readthedocs.io/en/latest/basics.html)</p>|Tutorial básico para que puedas iniciarte en Markdown|
 
 - [Tutorial básico](https://markdown-guide.readthedocs.io/en/latest/basics.html) para que puedas iniciarte en Markdown.
 - [The engineering toolbox](https://www.engineeringtoolbox.com/): una web muy interesante donde podrás encontrar apuntes acerca de muchos de los temas que trataremos en clase.
